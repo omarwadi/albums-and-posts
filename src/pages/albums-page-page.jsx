@@ -1,9 +1,9 @@
 
 import '../App.css';
-import Button from '../components/Button/Button';
+import Button from '../components/Button/Button.jsx';
 import AlbumCard from '../components/AlbumCard/AlbumCard.jsx';
-import '../components/Button/Button'
-import '../components/AlbumCard/AlbumCard'
+import '../components/Button/Button.jsx'
+import '../components/AlbumCard/AlbumCard.jsx'
 import React, { useEffect, useState } from 'react';
 import { Spinner, Heading } from '@chakra-ui/react'
 
